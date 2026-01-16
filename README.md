@@ -8,6 +8,7 @@ I am a cybersecurity learner from India focusing on SOC and defensive security.
 ## Skills
 - Networking basics
 - Security fundamentals
+- Linux fundamentals
 
 ## Platforms
 - TryHackMe: 
