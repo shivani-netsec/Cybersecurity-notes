@@ -6,7 +6,7 @@
 - IP address
 - MAC address
 - TCP vs UDP
--OSI model
--Network components,types and connections
--network media and IP addresing
--Subnet mask
+- OSI model
+- Network components,types and connections
+- network media and IP addresing
+- Subnet mask
