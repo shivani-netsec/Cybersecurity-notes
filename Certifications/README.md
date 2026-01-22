@@ -1,5 +1,5 @@
 ## IBM Cybersecurity Courses
-- IBM Cybersecurity Analyst Professional Certificate 
+- IBM Cybersecurity Fundamental 
   https://www.credly.com/badges/d3eeca2c-a294-4aab-87ef-92e6191fe2d3/public_url
 
 
