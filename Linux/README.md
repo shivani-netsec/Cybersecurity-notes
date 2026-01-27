@@ -2,7 +2,9 @@
 
 ## commands learned
 -pwd
+
 -ls
+
 -cd
 -mkdir
 -rmdir
