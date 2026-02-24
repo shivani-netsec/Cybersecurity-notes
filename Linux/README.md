@@ -17,6 +17,10 @@
 
 -ipconfig
 
+-user/group ID displaying
+
+-file comparing
+
 -basic file operations
 
 -files and directories
@@ -31,4 +35,5 @@
 
 -changing permission directory
 
+-file removing/renaming/conactening/copying/creating/updating
 
